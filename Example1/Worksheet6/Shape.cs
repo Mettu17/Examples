@@ -17,6 +17,7 @@ namespace Worksheet6
         public virtual double getPerimeter()
         {
             return 0.0;
+
         }
 
     }
